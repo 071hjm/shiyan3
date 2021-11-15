@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Lenovo/MyApplication30/app/src/main/res/layout/actionmode.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Lenovo/MyApplication30/app/src/main/res/layout/activity_main.xml" value="0.24864130434782608" />
+        <entry key="..\:/Users/Lenovo/MyApplication30/app/src/main/res/layout/alertdialog.xml" value="0.128125" />
+        <entry key="..\:/Users/Lenovo/MyApplication30/app/src/main/res/layout/buttons.xml" value="0.128125" />
+        <entry key="..\:/Users/Lenovo/MyApplication30/app/src/main/res/layout/custommenu.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Lenovo/MyApplication30/app/src/main/res/layout/linearlayout.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Lenovo/MyApplication30/app/src/main/res/layout/simple_item.xml" value="0.24864130434782608" />
+        <entry key="..\:/Users/Lenovo/MyApplication30/app/src/main/res/layout/simpleadapter.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Lenovo/MyApplication30/app/src/main/res/layout/simplelayout.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/MyApplication30/app/src/main/res/menu/actionmode.xml" value="0.16875" />
+        <entry key="..\:/Users/Lenovo/MyApplication30/app/src/main/res/menu/menu_main.xml" value="0.19166666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
